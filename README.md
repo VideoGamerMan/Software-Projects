@@ -8,6 +8,13 @@ Currently, it is empty, but it may include:
 - Android apps
 - Other software-based projects
 
-## Notes
+## Projects
 
-- The [Pyoraklubi](https://github.com/VideoGamerMan/Pyoraklubi) project was moved to its own dedicated repository.
+### App Usage Tracker
+A small desktop tool that tracks how long app is running and logs the session durations.
+
+- 📦 [Download v1.0](https://github.com/VideoGamerMan/Software-Projects/releases/tag/v1.0)
+- 📝 No source code available.
+- 💻 Windows only (standalone .exe, no install required)
+
+ For setup instructions, see the [v1.0 Release Notes](https://github.com/VideoGamerMan/Software-Projects/releases/tag/v1.0)
