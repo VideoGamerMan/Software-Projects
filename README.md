@@ -1,7 +1,7 @@
 # Software Projects
 
 This repository is reserved for standalone software applications, tools, or utilities.  
-Currently, it is empty, but it may include:
+It may include the following types of projects:
 
 - Web apps (e.g. ASP.NET)
 - Desktop tools
